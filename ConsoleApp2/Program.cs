@@ -11,7 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             VIN_LIB.Class1 class1 = new VIN_LIB.Class1();
-            Console.WriteLine(class1.CheckVIN("JHMCM56557C404453"));    //Контрольная сумма работает только с JHMCM56557C404453
+            Console.WriteLine(class1.CheckVIN("FFFFM55557C404453"));
             Console.WriteLine(class1.GetVINCountry("JHMCM56557C404453"));
             Console.ReadKey();
         }

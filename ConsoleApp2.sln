@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIN_LIB", "VIN_LIB.dll\VIN_LIB.csproj", "{A1991642-D380-40B7-9AA1-78B8FBB2E5A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{24A548C5-2ACA-406B-8BBE-7032E12033EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A1991642-D380-40B7-9AA1-78B8FBB2E5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1991642-D380-40B7-9AA1-78B8FBB2E5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1991642-D380-40B7-9AA1-78B8FBB2E5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A548C5-2ACA-406B-8BBE-7032E12033EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A548C5-2ACA-406B-8BBE-7032E12033EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A548C5-2ACA-406B-8BBE-7032E12033EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A548C5-2ACA-406B-8BBE-7032E12033EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
